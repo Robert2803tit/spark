@@ -15,5 +15,5 @@ Este repositorio contiene el código y los recursos utilizados para realizar un 
 - PySpark
 - Apache Spark
 - Jupyter Notebooks
-- Pandas / Matplotlib / Seaborn (para visualizaciones, opcional)
+- Pandas / Matplotlib / Seaborn (para visualizaciones, opcional).
 
