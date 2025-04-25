@@ -63,9 +63,11 @@ El análisis utiliza datos del programa ["Muévete en Bici"](https://datos.cdmx.
 3. **Ejecutar el análisis**
    Abrir el notebook principal:
    ```bash
-   jupyter notebook notebooks/analisis_paseos.ipynb
+   jupyter notebook notebooks/analisis de los paseos.ipynb
 
 ## Hallazgos Principales
+
+
 **Patrones de congestión**:
 
 Evento más concurrido: Edición 629 (115,728 participantes)
