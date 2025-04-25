@@ -87,7 +87,7 @@ Redistribución de recursos en zonas críticas
 Optimización de horarios para eventos futuros
 
 
-Documentación técnica detallada disponible en [docs/informe_spark.pdf](docs/informe_spark.pdf)
+Documentación técnica detallada disponible en [docs/Informe_spark.pdf](docs/Informe_spark.pdf)
 
 
 
