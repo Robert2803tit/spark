@@ -51,4 +51,43 @@ El análisis utiliza datos del programa ["Muévete en Bici"](https://datos.cdmx.
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/practica-spark-movilidad.git
-   cd practica-spark-movilidad 
+   cd practica-spark-movilidad
+
+
+2. **Configurar entorno (requiere Python 3.8+ y Spark)**:
+   ```bash
+   pip install pyspark matplotlib jupyter
+
+
+
+3. **Ejecutar el análisis**
+   Abrir el notebook principal:
+   ```bash
+   jupyter notebook notebooks/analisis_paseos.ipynb
+
+## Hallazgos Principales
+**Patrones de congestión**:
+
+Evento más concurrido: Edición 629 (115,728 participantes)
+
+Zona Centro con mayor afluencia promedio
+
+**Distribución horaria**:
+
+Hora pico: 19:00 hrs (49,177 asistentes promedio)
+
+Hora valle: 00:00 hrs (40,167 asistentes)
+
+**Recomendaciones**:
+
+Redistribución de recursos en zonas críticas
+
+Optimización de horarios para eventos futuros
+
+
+Documentación técnica detallada disponible en [docs/informe_spark.pdf](docs/informe_spark.pdf)
+
+
+
+
+
