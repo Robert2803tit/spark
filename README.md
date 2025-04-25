@@ -19,23 +19,7 @@ Este proyecto aplica Apache Spark para analizar patrones de movilidad en la Ciud
 - **matplotlib**: Visualización de resultados
 - **Datos abiertos CDMX**: Fuente de datos reales
 
-## Estructura del Proyecto
-/practica-spark-movilidad/
-│  
-├── notebooks/  
-│ ├── analisis_paseos.ipynb # Notebook principal con el análisis  
-│ └── visualizaciones.ipynb # Generación de gráficos   
-│  
-├── data/  
-│ ├── paseos_dominicales_muevete_en_bici.csv # Dataset original  
-│ └── resultados_analisis/ # Outputs procesados  
-│  
-├── docs/  
-│ ├── informe_tecnico.pdf # Documentación detallada  
-│ └── referencias.md # Fuentes de datos y bibliografía  
-│  
-└── src/  
-└── funciones_utiles.py # Funciones auxiliares para el análisis  
+
 
 
 ## Dataset Utilizado
